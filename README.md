@@ -49,10 +49,15 @@ The system helps hospitals and clinics manage patient records, generate reports,
 
 ---
 
-## 📸 Project Screenshot
+## 🌍 Community Service Activities
 
-<img src="YOUR_IMAGE_LINK_HERE" width="100%">
+<div align="center">
 
+<img src="PASTE_IMAGE1_LINK_HERE" width="45%">
+
+<img src="PASTE_IMAGE2_LINK_HERE" width="45%">
+
+</div>
 ---
 
 ## 📄 Project Report
