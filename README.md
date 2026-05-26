@@ -53,9 +53,9 @@ The system helps hospitals and clinics manage patient records, generate reports,
 
 <div align="center">
 
-<img src="[PASTE_IMAGE1_LINK_HERE](https://github.com/Chezhiyan-04/SAP-ABAP-Based-Healthcare-Data-Management-and-Reporting-System/blob/main/Earthy%20Clean%20Grid%20Photography%20Photo%20Collage%20Facebook%20Cover.jpg)" width="45%">
+<img src="(https://github.com/Chezhiyan-04/SAP-ABAP-Based-Healthcare-Data-Management-and-Reporting-System/blob/main/Earthy%20Clean%20Grid%20Photography%20Photo%20Collage%20Facebook%20Cover.jpg)" width="45%">
 
-<img src="PASTE_IMAGE2_LINK_HERE" width="45%">
+<img src="(https://github.com/Chezhiyan-04/SAP-ABAP-Based-Healthcare-Data-Management-and-Reporting-System/blob/main/WhatsApp%20Image%202026-05-02%20at%206.49.54%20PM.jpeg)" width="45%">
 
 </div>
 ---
