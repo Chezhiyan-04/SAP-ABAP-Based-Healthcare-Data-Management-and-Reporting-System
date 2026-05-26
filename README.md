@@ -57,7 +57,7 @@ The system helps hospitals and clinics manage patient records, generate reports,
 
 ## 📄 Project Report
 
-<a href="YOUR_PDF_LINK_HERE" target="_blank">
+<a href="[YOUR_PDF_LINK_HERE](https://github.com/Chezhiyan-04/SAP-ABAP-Based-Healthcare-Data-Management-and-Reporting-System/blob/main/AKASH%20FINAL%20SAP%20ABAP%20PPT%20(1).pdf)" target="_blank">
 View Full Project Report
 </a>
 
